@@ -26,16 +26,11 @@ CREATE TABLE users (
 
 
 # Run App.
-Clone this repo to your machine.
-1. Update database name, user name and passed in dbQueries.py file.
-
-2. You should have python installed in your machine. Check using python -V. Python 3 or greater must be installed.
-
-3. Install all dependency listed in requirements.txt using pip install.
+1. Clone this repo to your machine.
+2. Update database name, user name and passed in dbQueries.py file.
+3. You should have python installed in your machine. Check using python -V. Python 3 or greater must be installed.
+4. Install all dependency listed in requirements.txt using pip install.
 pip install flask gunicorn psycopg2 requests base58 mailjet_rest
-
-4. You should have an IDE like pycharm.
-
-5. Run app from pycharm. 
-
-6. Hit http://localhost:8080/ in your web browser.
+5. You should have an IDE like pycharm.
+6. Run app from pycharm.
+7. Hit http://localhost:8080/ in your web browser.
