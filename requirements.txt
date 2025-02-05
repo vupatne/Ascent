@@ -1,0 +1,6 @@
+flask
+gunicorn
+psycopg2
+requests
+base58
+mailjet_rest
