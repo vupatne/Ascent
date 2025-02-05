@@ -1,5 +1,5 @@
 # Ascent
-Simple python web application with mysql, flask and html
+Simple python web application with mysql, flask and html.
 
 # Install a mysql database to you machine. Then create a database as below and run queries. 
 CREATE DATABASE ascent;
